@@ -1,0 +1,13 @@
+/* #region Utilities */
+.d-flex{
+    display: flex;
+}
+
+.block{
+    display: block;
+}
+/* #endregion Utilities */
+
+.row{
+    gap: 1rem;
+}
